@@ -10,7 +10,7 @@ Programa creado para ensayar el correcto funcionamiento
 del entorno de instalación Python
 '''
 
-__author__ = "Inove Coding School"
+__author__ = "Cristian"
 __email__ = "alumnos@inove.com.ar"
 __version__ = "1.3"
 
